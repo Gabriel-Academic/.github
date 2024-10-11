@@ -10,4 +10,4 @@
 
 ## 📌 Repositories
 
-- <a href="../../LOP-RA"> LOP-RA </a>
+- <a href="https://github.com/Gabriel-Academic/LOP-RA"> LOP-RA </a>
