@@ -10,4 +10,4 @@
 
 ## 📌 Repositories
 
-- <a href="#LOP-RA"> LOP-RA </a>
+- <a href="LOP-RA"> LOP-RA </a>
